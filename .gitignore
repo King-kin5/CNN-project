@@ -1,0 +1,6 @@
+CIFAR-10/data/
+*.tar.gz
+
+AlexNet/data
+minst/fashion-mnist_train.csv
+minst/fashion-mnist_test.csv
