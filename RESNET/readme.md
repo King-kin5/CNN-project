@@ -135,4 +135,4 @@ If different values such as `n = 2, 4, 6, 8` are used, the architecture remains 
 ## References
 
 * [Deep Residual Learning for Image Recognition (ResNet Paper)](https://arxiv.org/abs/1512.03385) by Kaiming He et al.
-* [github]:    https://github.com/a-martyn/resnet
+* .[github]:  (https://github.com/amartyn/resnet)
